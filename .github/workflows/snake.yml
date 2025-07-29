@@ -20,7 +20,7 @@ jobs:
       - name: 🐍 Gerar animação Snake GIF
         uses: Platane/snk@v3
         with:
-          github_user_name: AmaroMiranda
+          github_user_name: Amaro-Miranda
           gif_out_path: dist/github-contribution-grid-snake.gif
           color_snake: '#36BCF7'
           color_dots: '#CCCCCC,#BBBBBB,#999999,#666666,#333333'
